@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Orual de mierda XDD</Text>
+      <Text>Orual de mierda 2</Text>
       <StatusBar style="auto" />
     </View>
   );
